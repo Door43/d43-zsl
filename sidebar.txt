@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zsl:home|Door43 (zsl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zsl|d43-zsl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zsl/archive/master.zip|d43-zsl.zip]]
+
+**Recent Changes**
+{{changes>ns = zsl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zsl|Ethnologue data]]
+
